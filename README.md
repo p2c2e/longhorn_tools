@@ -147,4 +147,4 @@ export KUBECONFIG=/path/to/your/kubeconfig
 
 ## License
 
-[Add your license information here]
+MIT 
